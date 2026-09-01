@@ -38,3 +38,7 @@ A versão 1.1.0 representa a versão do sistema após a inclusão da opção de 
 
 ### 6. A tag foi criada direto na interface do GitHub, essa tag também pode ser realizada pela interface CLI?
 
+Sim. A tag também pode ser criada utilizando a interface CLI do Git. Para isso, podem ser utilizados os comandos:
+
+git tag v1.1.0
+git push origin v1.1.0
